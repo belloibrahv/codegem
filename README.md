@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# codegem
-=======
 # Code-Gem
 
 **Code-Gem** is a collection of useful code snippets and smaller features implemented in various languages, including Python and JavaScript. Each section in the repository provides utilities, functions, and small libraries that help developers solve everyday coding challenges.
@@ -12,4 +9,4 @@ If you want to contribute to the `code-gem` repository, feel free to fork the re
 ### License
 
 This project is licensed under the MIT License.
->>>>>>> first commit
+
